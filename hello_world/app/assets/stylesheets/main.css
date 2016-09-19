@@ -1,0 +1,9 @@
+h1 {
+  font-size: 50px;
+  font-family: chalkduster;
+}
+
+.unicorn {
+  border: 5px solid rgb(15, 195, 255);
+  border-radius: 20%;
+}
